@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# Name: kskbkup
+# Name: kskbkup.sh
 # Author: Nicholas Neal (nwneal@kisoki.com)
 # About: script for backing up a site
 
