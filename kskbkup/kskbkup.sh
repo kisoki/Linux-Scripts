@@ -9,13 +9,13 @@
 ##############################
 
 # Directory to be backed up
-bkupdir="/var/www/html/kisoki.com"
+bkupdir="/dir/of/site"
 
 # Location to backup of site
 bkupto="/tmp"
 
 # Name of backup file
-bkupname="kisoki.com_archive_"
+bkupname="site_archive_"
 
 # add timestamp
 addtmstmp=true
